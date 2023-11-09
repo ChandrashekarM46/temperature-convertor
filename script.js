@@ -4,7 +4,6 @@ const tempUnit = document.getElementById("temp-unit");
 const convertBtn = document.getElementById("convert-btn");
 const output = document.getElementById("output");
 
-
 function celsiusToFahrenheit(celsius) {
     return (celsius * 9/5) + 32;
 }
