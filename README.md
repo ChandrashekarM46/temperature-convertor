@@ -10,3 +10,4 @@ This project is a simple and responsive web application that allows users to con
 - **Responsive Design**: The website is designed to work seamlessly on various screen sizes, including mobile devices.
 - **User-Friendly Interface**: Intuitive and straightforward interface for a smooth user experience.
 - **HTML, Tailwind CSS, and JavaScript**: The project leverages these technologies to create an appealing and functional website.
+- ** Tailwind CSS** : A CSS Framework which results in sleek and resposive website.
